@@ -1,0 +1,23 @@
+{
+  "name": "Freifunk Lüneburg",
+  "url": "http://freifunk-lueneburg.de",
+  "location": {
+    "city": "Lüneburg",
+    "country": "DE",
+    "lat": 53.2464214,
+    "lon": 10.4115179
+  },
+  "contact": {
+    "email": "mitmachen@freifunk-lueneburg.de"
+  },
+  "state": {
+    "lastchange": "2018-01-25T20:45:42.897Z",
+    "focus": []
+  },
+  "api": "0.4.14",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
