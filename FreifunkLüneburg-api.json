@@ -8,16 +8,35 @@
     "lon": 10.4115179
   },
   "contact": {
-    "email": "mitmachen@freifunk-lueneburg.de"
+    "email": "mitmachen@freifunk-lueneburg.de",
+    "phone": "+49 4137 810197",
+    "facebook": "https://www.facebook.com/Lueneburg.Freifunk/",
+    "twitter": "@FreifunkLG"
   },
   "state": {
-    "lastchange": "2018-01-25T20:45:42.897Z",
-    "focus": []
+    "focus": [
+      "infrastructure/backbone",
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2018-01-27T11:56:10.370Z"
   },
-  "api": "0.4.14",
   "techDetails": {
-    "routing": [],
-    "updatemode": [],
-    "legals": []
-  }
+    "firmware": {
+      "name": "fflg",
+      "url": "http://freifunk-lueneburg.de/firmware/"
+    },
+    "routing": [
+      "802.11s",
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": [
+      "vpninternational"
+    ]
+  },
+  "api": "0.4.14"
 }
