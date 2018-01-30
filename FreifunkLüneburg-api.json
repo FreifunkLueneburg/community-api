@@ -28,6 +28,12 @@
       "interval": "60s",
       "technicalType": "meshviewer",
       "mapType": "geographical"
+    },
+    {
+      "url": "http://gw2.freifunk-lueneburg.de/meshviewer/data/nodes.json",
+      "interval": "60s",
+      "technicalType": "nodelist",
+      "mapType": "list/status"
     }
   ],
   "techDetails": {
