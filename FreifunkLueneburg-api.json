@@ -24,13 +24,13 @@
   },
   "nodeMaps": [
     {
-      "url": "http://gw2.freifunk-lueneburg.de/meshviewer/",
+      "url": "http://gw4.freifunk-lueneburg.de/meshviewer/",
       "interval": "60s",
       "technicalType": "meshviewer",
       "mapType": "geographical"
     },
     {
-      "url": "http://gw2.freifunk-lueneburg.de/meshviewer/data/nodes.json",
+      "url": "http://gw4.freifunk-lueneburg.de/meshviewer/data/nodelist.json",
       "interval": "60s",
       "technicalType": "nodelist",
       "mapType": "list/status"
